@@ -51,7 +51,7 @@ export const Buttons = styled.div`
         &.white {
             background: #fff;
             color: #1a1720;
-            opacity: 0.65;
+            opacity: 0.75;
         }
 
         & + button {
